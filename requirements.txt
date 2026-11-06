@@ -5,3 +5,7 @@ langchain-text-splitters
 langchain-community
 langchain-google-genai
 faiss-cpu
+gtts
+SpeechRecognition
+pydub
+streamlit-mic-recorder
